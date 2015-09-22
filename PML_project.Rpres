@@ -1,0 +1,28 @@
+Practical Machine Learning
+========================================================
+author: fmahdi
+date: `r date()`
+
+Building out model
+========================================================
+
+We should do the following in this report.
+
+- How we built the model
+- Cross validation
+- Our out of sample error
+- The choices I made
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
